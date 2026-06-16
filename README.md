@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there! I'm Adarsh</h1>
 
 <p align="center">
-🚀 Aspiring Full Stack Developer | AI/ML Learner  
+Software Engineer
 </p>
 
 ---
 
-### 🌱 Currently learning:
+### Stacks
 - C++ (DSA)
 - JavaScript
 - React
@@ -14,7 +14,7 @@
 
 ---
 
-### 🤝 Open to collaborate on:
+### Building cool stuff
 - Web Dev Projects
 - Open Source
 - Beginner-friendly projects

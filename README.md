@@ -2,6 +2,7 @@
 
 <p align="center">
 Software Engineer
+AI Engineer
 </p>
 
 ---
@@ -17,7 +18,6 @@ Software Engineer
 ### Building cool stuff
 - Web Dev Projects
 - Open Source
-- Beginner-friendly projects
 
 ---
 

@@ -81,14 +81,6 @@ BUILDIING AN  AI FINANCE AGENT-
 
 ---
 
-### Stacks
-- C++ (DSA)
-- JavaScript
-- React
-- Node.js
-
----
-
 ### Building cool stuff
 
 ---

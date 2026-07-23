@@ -15,6 +15,68 @@ I'm passionate about building AI agents that can think, automate, and solve real
 
 > Building the future, one AI agent at a time.
 
+BUILDING AN AI HEALTH AGENT
+
+                    My Goal
+                        |
+                Medical AI Robotics (NUTRITISCAN)
+                        |
+         --------------------------------
+         |               |               |
+      AI/ML           Robotics         Medicine
+         |               |               |
+      LLMs            ROS2              Anatomy
+   Deep Learning      Sensors           Physiology
+    Computer Vision   Control Systems   Medical Data
+     AI Agents        Robotics          Healthcare AI
+         |               |               |
+       Research      Embedded Systems    Clinical Knowledge
+         \               |               /
+                  Surgical AI Systems
+                          |
+                    Future Startup
+
+
+BUILDIING AN  AI FINANCE AGENT- 
+
+                    AI FINANCE AGENT (PAISA)
+                      |
+             AI Financial Operating System
+                      |
+         ---------------------------------------
+         |                  |                  |
+      AI CFO             AI CA             AI Advisor
+         |                  |                  |
+    Cash Flow           Tax Planning       Investments
+    Budgeting           GST Assistance     Wealth Building
+    Forecasting         Bookkeeping        Financial Goals
+         |                  |                  |
+         ---------------------------------------
+                            |
+                       Financial Brain
+                            |
+                  --------------------------------
+                  |              |                |
+              Memory           Tools              RAG
+                  |              |                |
+            User History      Financial APIs      Tax Laws
+                              Bank Accounts       Regulations
+                              UPI                 Financial Knowledge
+                              Investments
+                  --------------------------------
+                            |
+                        AI Agents
+                            |
+              -----------------------------------
+              |                |                 |
+          Budget Agent      Tax Agent        Investment Agent
+              |                |                 |
+         Spending Coach     AI Accountant     Wealth Coach
+                            |
+                      Personalized Insights
+                            |
+                           User
+
 </p>
 
 ---

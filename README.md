@@ -3,6 +3,18 @@
 <p align="center">
 Software Engineer
 AI Engineer
+
+  # Hi, I'm Adarsh 👋
+
+I'm passionate about building AI agents that can think, automate, and solve real-world problems. I love exploring AI, machine learning, and agentic systems while turning ideas into products.
+
+* Building AI agents and intelligent systems
+* Learning AI/ML, LLMs, and agentic workflows
+* Exploring automation, multi-agent architectures, and AI applications
+* Sharing my projects and experiments as I learn and build
+
+> Building the future, one AI agent at a time.
+
 </p>
 
 ---
@@ -16,8 +28,6 @@ AI Engineer
 ---
 
 ### Building cool stuff
-- Web Dev Projects
-- Open Source
 
 ---
 

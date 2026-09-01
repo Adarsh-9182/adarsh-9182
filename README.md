@@ -2,7 +2,7 @@
 adarsh@bhardwaj:~$ whoami
 ```
 
-I build AI systems for the two places a wrong answer costs something real:
+I build Full stack and AI systems for the two places a wrong answer costs something real:
 money and health.
 
 One rule runs through all of it — **the model never produces a number.** Tested

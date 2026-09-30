@@ -1,4 +1,4 @@
-I am in the love with building FullStack AI products.
+Currently working at bodhx.ai
 
 visit my portfolio website - www.adarshbhardwaj.space
  
